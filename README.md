@@ -1,9 +1,7 @@
-<img align="right" src="https://media0.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e47vkejhc6dfwueblznxu2l69kzlcmzrgqv9hcj9l5p&rid=giphy.gif&ct=g" width="15%"/> 
-<img src="https://media0.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e47vkejhc6dfwueblznxu2l69kzlcmzrgqv9hcj9l5p&rid=giphy.gif&ct=g" width="15%"/>
-
-
 <h1 align="center">Hi, there! I'm Ric👋</h1>
 <h4 align="center">A full-stack developer based in Mexico City.<br>Currently enrolled at Microverse. A forever-curious weirdo 🤖</h4>
+
+<img align="right" src="https://media0.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e47vkejhc6dfwueblznxu2l69kzlcmzrgqv9hcj9l5p&rid=giphy.gif&ct=g" width="20%"/> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rmrmrmr&label=Profile%20views&color=0e75b6&style=flat" alt="rmrmrmr" /> </p>
 
