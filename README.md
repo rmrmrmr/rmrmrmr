@@ -1,7 +1,6 @@
 <h1 align="center">Hi, there! I'm Ric👋</h1>
 <h4 align="center">A full-stack developer based in Mexico City.<br>Currently enrolled at Microverse. A forever-curious weirdo 🤖</h4>
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/R03zWv5p1oNSQd91EP" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/R03zWv5p1oNSQd91EP">via GIPHY</a></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rmrmrmr&label=Profile%20views&color=0e75b6&style=flat" alt="rmrmrmr" /> </p>
