@@ -9,7 +9,7 @@
 
 - 🌱 I’m learning **JavaScript, React, Ruby, RoR**
 
-- 👨‍💻 All of my projects are available at [my portfolio website](https://rmrmrmr.github.io/Portfolio-Website/)
+- 👨‍💻 All of my projects are available at [my portfolio website](https://ricmartinez.vercel.app/)
 
 - 📫 You can reach me at: **ricardomartineza77@gmail.com**
 
